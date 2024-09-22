@@ -1,0 +1,6 @@
+
+1) There could be many items
+2) There could be many items with specific behaviours
+3) The GildedRose scope is only about aging/quality calculation, not about soldable management
+4) Item list can vary through the aging updates
+5) Reflection pattern for easier configuration of new aging behaviours
